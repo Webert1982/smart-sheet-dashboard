@@ -3,6 +3,7 @@
 Uma planilha para organizar sua vida financeira
 
 > ℹ️ **NOTA:** Este repositório foi desenvolvido durante o BootCamp `CAIXA - IA Generativa com Microsoft Copilot` na plataforma da [DIO](https://dio.me)
+
 Projeto desenvolvido na Entrega do Desafio de Projeto `Como organizar sua vida Financeira com Planilhas Inteligentes e IA`
 
 ## 🤖 Tecnologias Utilizadas
