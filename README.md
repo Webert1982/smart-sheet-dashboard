@@ -38,29 +38,14 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema 7 Sacramentos, o ebook é do nicho de religião e o subnicho é catequese, o título deve ser épico e curto, e tenha uma temática Católica no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para e-book, com foco no Sacramento x {REGRAS} Explique sempre de uma maneira simples, Deixe o texto enxuto, Cite sua origem bíblica |
+| insights | Utilize a tabela de dados contida no documento acima, como base de conhecimento e me gere alguns insights dessa tabela de gastos                                                        |
 
-
-Leonardo.Ai：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | Make a image featuring at its center a white dove representing the holy spirit over a rock baptismal font, with crystal clear water inside. The background is a blue sky, with white clouds. |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagem gerada via Leonardo.Ai
 
 ## 📚 Materiais
 
-- Imagem utilizada em `main`
-- Ebook gerado em `main`
+- Base de Dados utilizada em `main`
+- Planilha com Dashborad criada em `main`
 
-## 🛠️ Execução
-
-Utilizando os prompts acima nas ferramentas citadas, foi gerado o material base e a sua edição foi realizada no Power Point.
 
 ## 👨‍💻 Criador
 
