@@ -2,7 +2,7 @@
 
 Uma planilha para organizar sua vida financeira
 
-> ℹ️ **NOTE:** Este repositório foi desenvolvido durante o BootCamp `CAIXA - IA Generativa com Microsoft Copilot` na plataforma da [DIO](https://dio.me)
+> ℹ️ **NOTA:** Este repositório foi desenvolvido durante o BootCamp `CAIXA - IA Generativa com Microsoft Copilot` na plataforma da [DIO](https://dio.me)
 Projeto desenvolvido na Entrega do Desafio de Projeto `Como organizar sua vida Financeira com Planilhas Inteligentes e IA`
 
 ## 🤖 Tecnologias Utilizadas
@@ -10,11 +10,11 @@ Projeto desenvolvido na Entrega do Desafio de Projeto `Como organizar sua vida F
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para insights;
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" nas pesquisas sobre as histórias de Santos Católicos, na estruturação do conteúdo e para refinar minhas ideias. Os prompts foram instruídos a apresentar os santos mais populares de cada mês. A imagem da capa foi obtida através do "Leonardo AI", com o objetivo de gerar uma imagem exclusiva para o e-book e que fosse pertinente ao tema. Por fim, realizei a montagem e edição final do conteúdo no Microsoft Powerpoint.
+Utilizei dados fictícios, mas que posteriormente poderão sem substitúidos por dados reais e segui o passo a passo do orientador para a elaboração do Dashboard. A montagem e edição da planilha foi realizada no Microsoft Excel. Ao final, utilizei a planilha Base de Dados no chat GPT para a obtenção de insigths sobre os dados nela inseridos.
 
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo focado em espiritualidade, obtido totalmente com o auxlio de IAs Genativas, seu objetivo é demonstrar como as IAs podem ser uma ferramenta poderosa na exploração e criação dos mais diversos conteúdos.
+O Planilha apresenta um Dashboard interativo, com objetivo de auxiliar no controle da vida financeira, além de facilitar na utilização desses dados em ferramentas de IA (como o Chat GPT), possbilitando a utilização dessas ferramentas para auxiliar no planejamento financeiro.
 
 
 [LINK PARA O E-BOOK AQUI](https://github.com/Webert1982/LabDIONattyOrNot/blob/main/Ebook%20-%20LabDIONattyOrNot.pdf)
