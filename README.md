@@ -6,8 +6,8 @@ Uma planilha para organizar sua vida financeira
 Projeto desenvolvido na Entrega do Desafio de Projeto `Como organizar sua vida Financeira com Planilhas Inteligentes e IA`
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para insights;
 - Ferramenta **[Microsoft Office Excel](https://www.microsoft.com/en/microsoft-365/excel)** para criação da planilha.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para insights;
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" nas pesquisas sobre as histórias de Santos Católicos, na estruturação do conteúdo e para refinar minhas ideias. Os prompts foram instruídos a apresentar os santos mais populares de cada mês. A imagem da capa foi obtida através do "Leonardo AI", com o objetivo de gerar uma imagem exclusiva para o e-book e que fosse pertinente ao tema. Por fim, realizei a montagem e edição final do conteúdo no Microsoft Powerpoint.
