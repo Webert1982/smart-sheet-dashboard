@@ -10,31 +10,15 @@ Projeto desenvolvido na Entrega do Desafio de Projeto `Como organizar sua vida F
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para insights;
 
 ## 🧐 Processo de Criação
-Utilizei dados fictícios, mas que posteriormente poderão sem substitúidos por dados reais e segui o passo a passo do orientador para a elaboração do Dashboard. A montagem e edição da planilha foi realizada no Microsoft Excel. Ao final, utilizei a planilha Base de Dados no chat GPT para a obtenção de insigths sobre os dados nela inseridos.
-
+Utilizei dados fictícios, mas que posteriormente poderão sem substitúidos por dados reais e segui o passo a passo do orientador para a elaboração do Dashboard. A montagem e edição da planilha foi realizada no Microsoft Excel. Ao final, utilizei a planilha 'Base de Dados' no chat GPT para a obtenção de insigths sobre os dados nela inseridos.
 
 ## 🚀 Resultados
 O Planilha apresenta um Dashboard interativo, com objetivo de auxiliar no controle da vida financeira, além de facilitar na utilização desses dados em ferramentas de IA (como o Chat GPT), possbilitando a utilização dessas ferramentas para auxiliar no planejamento financeiro.
 
-
-[LINK PARA O E-BOOK AQUI](https://github.com/Webert1982/LabDIONattyOrNot/blob/main/Ebook%20-%20LabDIONattyOrNot.pdf)
-
-## 💭 Reflexão
-Este desafio foi uma experiência muito reveladora, além de me exclarecer o potencial das ferramentas de IA, também dismistificou preconceitos gerados por uma imagem negativa dessas tecnologias.
+## 💻 [LINK PARA A PLANILHA AQUI](https://github.com/Webert1982/smart-sheet-dashboard/blob/main/projeto_planilha_inteligente.xlsx)
 
 
-<a href="https://github.com/Webert1982/create-a-ebook-with-IA-tools/blob/main/ebook%20-%20sacramentos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [Leonardo.Ai](https://app.leonardo.ai/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
-
-
-ChatGPT：
+## 🧠 Prompt utilizado no Chat GPT:
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -44,7 +28,7 @@ ChatGPT：
 ## 📚 Materiais
 
 - Base de Dados utilizada em `main`
-- Planilha com Dashborad criada em `main`
+- Planilha com Dashborad em `main`
 
 
 ## 👨‍💻 Criador
