@@ -1,7 +1,9 @@
 # Planilha Inteligente com Dashboard
 
-Uma planilha para organizar su vida financeira
+Uma planilha para organizar sua vida financeira
 
+> ℹ️ **NOTE:** Este repositório foi desenvolvido durante o BootCamp `CAIXA - IA Generativa com Microsoft Copilot` na plataforma da [DIO](https://dio.me)
+Projeto desenvolvido na Entrega do Desafio de Projeto `Como organizar sua vida Financeira com Planilhas Inteligentes e IA`
 
 ## 📒 Descrição
 Este e-book foi construído explorando IAs Generativas.
@@ -28,10 +30,6 @@ O e-book apresenta um conteúdo focado em espiritualidade, obtido totalmente com
 ## 💭 Reflexão
 Este desafio foi uma experiência muito reveladora, além de me exclarecer o potencial das ferramentas de IA, também dismistificou preconceitos gerados por uma imagem negativa dessas tecnologias.
 
-> ℹ️ **NOTE:** Este repositório foi desenvolvido durante o curso CAIXA - IA Generativa com Microsoft Copilot na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
 
 <a href="https://github.com/Webert1982/create-a-ebook-with-IA-tools/blob/main/ebook%20-%20sacramentos.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
