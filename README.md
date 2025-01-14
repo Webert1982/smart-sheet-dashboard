@@ -5,17 +5,9 @@ Uma planilha para organizar sua vida financeira
 > ℹ️ **NOTE:** Este repositório foi desenvolvido durante o BootCamp `CAIXA - IA Generativa com Microsoft Copilot` na plataforma da [DIO](https://dio.me)
 Projeto desenvolvido na Entrega do Desafio de Projeto `Como organizar sua vida Financeira com Planilhas Inteligentes e IA`
 
-## 📒 Descrição
-Este e-book foi construído explorando IAs Generativas.
-Com uma temática religiosa, sobre Santos da Igreja Católica.
-E-book com 15 páginas, divididas em 4 seções principais:
-1. Capa / 2. Índice / 3. conteúdo (12 páginas) / 4. Agradecimentos.
-
-
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a capa do e-book;
-- Ferramenta **Microsoft Office** para edição.
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para insights;
+- Ferramenta **[Microsoft Office Excel](https://www.microsoft.com/en/microsoft-365/excel)** para criação da planilha.
 
 ## 🧐 Processo de Criação
 Utilizei o "ChatGPT" nas pesquisas sobre as histórias de Santos Católicos, na estruturação do conteúdo e para refinar minhas ideias. Os prompts foram instruídos a apresentar os santos mais populares de cada mês. A imagem da capa foi obtida através do "Leonardo AI", com o objetivo de gerar uma imagem exclusiva para o e-book e que fosse pertinente ao tema. Por fim, realizei a montagem e edição final do conteúdo no Microsoft Powerpoint.
